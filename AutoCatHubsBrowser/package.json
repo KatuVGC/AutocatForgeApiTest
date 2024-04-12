@@ -1,0 +1,21 @@
+{
+  "name": "autocathubsbrowser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^2.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "forge-apis": "^0.9.9"
+  },
+  "devDependencies": {
+    "@types/forge-viewer": "^7.69.9"
+  }
+}
